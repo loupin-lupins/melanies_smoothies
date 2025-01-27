@@ -43,6 +43,7 @@ if time_to_insert:
     st.success(f'Your Smoothie is ordered {name_on_order}!', icon="✅")
 
 import requests
+import pandas
 
 
 
